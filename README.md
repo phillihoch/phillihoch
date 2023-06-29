@@ -4,7 +4,7 @@ Hi 👋 My name is Philipp
 Web Developer
 -------------
 
-* 🌍  I'm based in Stockheim, Unterfranken, GER
+* 🌍  I'm based in Würzburg, Unterfranken, GER
 * ✉️  You can contact me at [philipp.hoch2+github@gmail.com](mailto:philipp.hoch2+github@gmail.com)
 * 🧠  I'm learning React Native
 * 🤝  I'm open to collaborating on interesting projects
