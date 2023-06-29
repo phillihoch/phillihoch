@@ -1,13 +1,12 @@
-Hi 👋 My name is Philipp
-========================
-
-Web Developer
--------------
+<h1>Hi 👋, I'm Philipp</h1>
+<h3>A passionate frontend developer from Germany</h3>
 
 * 🌍  I'm based in Würzburg, Unterfranken, GER
 * ✉️  You can contact me at [philipp.hoch2+github@gmail.com](mailto:philipp.hoch2+github@gmail.com)
 * 🧠  I'm learning React Native
 * 🤝  I'm open to collaborating on interesting projects
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=phillihoch&label=Profile%20views&color=0e75b6&style=flat" alt="phillihoch" /> </p>
 
 ### Skills
 
